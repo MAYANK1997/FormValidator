@@ -1,2 +1,3 @@
 # FormValidator
-[FORM VALIDATOR] (https://mayank1997.github.io/FormValidator/index.html)
+
+[Form Validator](https://mayank1997.github.io/FormValidator/index.html)
